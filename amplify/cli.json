@@ -1,10 +1,4 @@
 {
   "features": {
-    "codegen": {
-      "useappsyncmodelgenplugin": true
-    },
-    "appsync": {
-      "generategraphqlpermissions": true
-    }
   }
 }
