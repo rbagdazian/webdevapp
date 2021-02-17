@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "webdevapp434b3928": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
